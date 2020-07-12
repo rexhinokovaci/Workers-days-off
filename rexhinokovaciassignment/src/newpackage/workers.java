@@ -1,4 +1,4 @@
-//if you're seeing this give me an A+
+
 
 package newpackage;
 
@@ -87,7 +87,7 @@ only through its public methods and keep the values themselves private.
     public void setName(String[] name) {
         this.name = name;
     }
-// end fo getters and setters
+// end for getters and setters
     
     
     // now we have our methods we need to show our user how many days he wil take and how many will be avaible
